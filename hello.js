@@ -1,5 +1,5 @@
 function hello(){
-    console,logHello, Anant! ");
+    console.log("Hello, Anant! ");
 }
 
 hello();
